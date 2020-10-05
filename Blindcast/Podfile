@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Blindcast' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Blindcast
+  pod 'Alamofire'
+  pod 'Capable'
+  pod 'Realm'
+  pod 'RealmSwift'
+  pod 'FeedKit', '~> 9.0'
+  pod 'SwiftyBeaver'
+
+end

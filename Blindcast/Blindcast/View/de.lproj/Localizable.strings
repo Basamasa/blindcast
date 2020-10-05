@@ -1,0 +1,174 @@
+/*
+  Localizable.strings
+  Blindcast
+
+  Created by Jan Anstipp on 13.01.20.
+  Copyright © 2020 handycap. All rights reserved.
+*/
+
+
+// Mark blindcastView
+"blindcastView.player" = "Player";
+"blindcastView.player.label" = "Menü: Player";
+"blindcastView.player.hint" = "Zum oeffnen des Menue Player. doppeltippn. Zum abspielen oder stoppen der Folge. gedrueckt halten";
+
+"blindcastView.library" = "Mediathek";
+"blindcastView.library.label" = "Menü: Mediathek";
+"blindcastView.library.hint" = "Zum oeffnen des Menue Mediathek. doppeltippn. Zum suchen eines Podcast mit der Spracheingabe. gedrueckt halten";
+
+"blindcastView.search" = "Suchen";
+"blindcastView.search.label" = "Menü: Suchen";
+"blindcastView.search.hint" = "Zum oeffnen des Menue Suche. doppeltippn. Zum suchen eines Podcast mit der Spracheingabe. gedrueckt halten";
+
+"blindcastView.setting" = "Einstellungen";
+"blindcastView.setting.label" = "Menü: Einstellungen";
+"blindcastView.setting.hint" = "Einstellungen in der App";
+
+"blindcastView.voice" = "Voice";
+"blindcastView.voice.label" = "Spracheingabe";
+"blindcastView.voice.hint" = "Zum Starten der Spracheingabe doppeltippen. Hier kannst du eine Aktion durch eine Spracheingabe starten. Die Spracheingabe startet nach dem Signal. Du hast folgenden Befehle zur verfuegung. Folge abspielen. Dafuer musst du . Play. sagen. Folge stoppen. Dafuer musst du. stopp. sagen. Podcast suchen. Dafuer musst du. Suche. sagen.";
+
+// playerView
+"player.header" = "Menü: Player";
+"player.header.hint" = "Im Menue Player sind Informationen zur aktuellen gespielten Folge zu finden. Folgende Infos wirst du im Menue finden. Titel der Folge. Eine beschreibung der Folge. Zudem findest du hier folgende Aktionen. Folge Abspielen und Stoppen. Folge 30 Secunden vor und zurueckspulen. Abspielgeschwindigkeit schneller oder Langsamer machen";
+
+"player.titel" = "Titel";
+"player.titel.value" = "Titel";
+"player.titel.hint" = "Titel des Tracks der im Player geoeffnet ist.";
+
+"player.play" = "Play";
+"player.play" = "Play";
+"player.play.hint" = "Zum Abspielen doppeltippen";
+"player.stop" = "Pause";
+"player.stop.hint" = "Zum Stoppen doppeltippen";
+"player.status.play" = "Track wird Abgespielt";
+"player.status.hint" = "einstellbar, Zum Stoppen doppeltippen";
+"player.status.stop" = "Track wird nicht gespielt";
+"player.status.stop.hint" = "einstellbar, Zum Abspielen doppeltippen";
+"player.description" = "Beschreibung";
+"player.description.hint" = "Beschreibung zum Track";
+
+"player.skip.forward" = "Vorspulen";
+"player.skip.forward.hint" = "Zum vorspulen doppeltippen";
+
+"player.skip.back" = "Zurückspulen";
+"player.skip.back.hint" = "Zum zurückspulen doppeltippen";
+
+"player.speed" = "Abspielgeschwindigkeit";
+"player.speed.hint" = "Abspielgeschwindigkeit des Titel";
+
+"player.podcast" = "Podcast";
+"player.podcast.hint" = "Zum oeffnen des Podcast doppeltippen";
+
+//Library
+"library.header" = "Menü: Mediathek";
+"library.header.hint" =  "Im Menue Mediathek ist eine Liste mit allen Abonnierten Podcast zu finden. Du kannst in der Liste nach einen Podcast Namen suchen. Hierfuer hast du zwei moeglichkeiten. Einmal kannst du in ein Textfeld denn Namen eingeben. Oder du benutzt eine Spacheingabe.";
+"library.podcastList" = "Abonnierte Podcast";
+"library.podcastList.hint" = "Zum oeffnen der Liste, doppeltippen";
+"library.episdoList" = "Episoden";
+"library.episdoList.hint" = "Zum oeffnen der Liste, doppeltippen";
+
+//Search
+"search.header" = "Menü: Suche";
+"search.header.hint" = "Im Menue Suche findest du ein Liste von gesuchten Podcast. Zum suchen musst du einen Namen eines Podcast eingeben. Hierfuer hast du zwei moeglichkeiten. Einmal kannst du in ein Textfeld denn Namen eingeben. Oder du benutzt eine Spacheingabe.";
+"search.podcast" = "Podcast Suche";
+"search.podcast.hint" = "Zum oeffnen der Podcast Suche, doppeltippen";
+"search.author" = "Autor Suche";
+"search.author.hint" = "Zum oeffnen der Autor Suche, doppeltippen";
+"search.episode" = "Episode Suche";
+"search.episode.hint" = "Zum oeffnen der Episoden Suche, doppeltippen";
+
+//PodcastDetails
+"podcastDetails.header" = "Menü: Podcast";
+"podcastDetails.header.hint" = "Im Menü: Podcast hast du folgende Funktionen:";
+
+//PodcastList
+"podcastList.header.abo" = "Menue Mediathek";
+"podcastList.header.abo.hint" = "Im Menue Mediathek ist eine Liste mit Abonnierten Podcast zu finden. Du kannst nach einen Podcast suchen. Hierfuer hast du zwei moeglichkeiten. Du kannst in ein Textfeld denn Namen eingeben. Oder du benutzt eine Spacheingabe.";
+"podcastList.header" = "Liste: Podcast";
+"podcastList.header.hint" = "In der Liste: Podcast, hast du folgende funktionen:";
+"podcastList.header.searchPodcast" = "Liste: Podcast Suche";
+"podcastList.header.searchPodcast.hint" = "In der Liste: Podcast Suche. hast du folgende Funktionen";
+"podcastList.search" = "Podcast Suche";
+"podcastList.search.hint" = "Zum Suchen eines Podcast einen Namen eingeben.";
+"podcastList.podcast.hint" = "Zum oeffnen des Podcast, doppeltippen";
+"podcastList.search.voice.hint" = "Zum Suchen eines Podcast mithilfe der Spracheingabe, doppeltippen";
+
+
+//PodcastDetails
+"podcastDetails.titel" = "Titel";
+"podcastDetails.episode" = "Episoden";
+"podcastDetails.episode.hint" = "Zum oeffnen der Episoden Liste, doppeltippen";
+"podcastDetails.trailer" = "Trailer";
+"podcastDetails.trailer.hint" = "Zum Abspielen des Trailers, doppeltippen";
+"podcastDetails.abo" = "Abonnieren";
+"podcastDetails.abo.not" = "Nicht mehr abonnieren";
+"podcastDetails.abo.hint" = "Abonniert, einstellbar, Zum Deabonieren, doppeltippen";
+"podcastDetails.deabo.hint" = "Deabonniert, einstellbar, Zum Abonnieren, doppeltippen";
+
+"podcastDetails.artist" = "Kuenstler";
+"podcastDetails.description" = "Info";
+"podcastDetails.grene" = "Category";
+
+//EpisodenList
+"episodeList.header" = "Liste: Episoden";
+"episodeList.header.hint" = "In der Liste: Episoden hast du folgende funktionen:";
+"episodeList.search" = "Episode Suche";
+"episodeList.search.hint" = "Zum Suchen einer Episode einen Namen eingeben.";
+"episodeList.episode.hint" = "Zum oeffnen der Episode , doppeltippen";
+
+//EpisodenDetails
+"episodeDetails.header" = "Menü: Episode";
+"episodeDetails.header.hint" = "Im Menü: Episode hast du folgende funktionen:";
+"episodeDetails.titel" = "Titel";
+"episodeDetails.description" = "Beschreibung";
+"episodeDetails.play" = "Play";
+"episodeDetails.play.hint" = "Zum Abspielen ,doppeltippen";
+
+//VoiceView
+"voice.microphone.access.undetermined" = "Um Ihre Sprachbefehle verarbeiten zu können, wird der Zugriff auf das Mikrofon benötigt. Nach dieser Ansage können Sie den Zugriff erlauben oder verweigern.";
+"voice.microphone.access.denied" = "Sie haben den Zugriff auf das Mikrofon verweigert. Damit steht Ihnen die Sprachsteuerung zur Zeit nicht zur Verfügung. Sie können jederzeit den Zugirff in den Einstellungen der App gewähren.";
+"voice.speechrecognition.access.undetermined" = "Um Ihre Sprachbefehle erkennen zu können, wird der Zugriff auf die Spracherkennung benötigt. Nach dieser Ansage können Sie den Zugriff erlauben oder verweigern.";
+"voice.speechrecognition.authorization.denied" = "Sie haben den Zugriff auf die Spracherkennung verweigert. Damit steht Ihnen die Sprachsteuerung zur Zeit nicht zur Verfügung. Sie können jederzeit den Zugirff in den Einstellungen der App gewähren.";
+"voice.speechrecognition.authorization.authorized" = "Die Sprachsteuerung steht Ihnen ab sofort zur Verfügung";
+"voice.general.speak" = "Sprechen Sie ihren Befehl nach dem Hinweiston";
+"voice.command.search" = "Nach was soll ich suchen?";
+"voice.command.search.found" = "Folgende Ergebnisse habe ich zu %@ gefunden";
+
+"blindcast.more" = "Mehr";
+"zurueck" = "Zurueck";
+
+
+//Tutorial
+"tut.end" = "Demo beendet. Starte Voiceover um die Richtige App zu starten. Sage einfach zu Siri. Schalte Voiceover an!";
+"tut.gesture.1.info" = "Willkommen in der App Blindcast. Die App Blindcast ist eine Podcast App für blinde Menschen. Wir zeigen dir jetzt wie du die App bedienen kannst. Um die App zu bedienen hast du mehrere Möglichkeiten Aktionen auszuführen, hierfür brauchst du mehere Gesten die ich dir jetzt zeigen werde. Las uns mit der ersten Geste beginnen. Erste Geste lautet: nach Unten Wischen. Hierfür musst du mit einem Finger auf dem Bildschirm von oben nach unten wischen. ";
+"tut.gesture.1.instruction" = "Wische mit deinen Finger nach unten";
+"tut.gesture.2.info" = "Die Nächste Geste lautet: nach oben Wischen. Hierfür musst du mit einem Finger auf dem Bildschirm von unten nach oben wischen. ";
+"tut.gesture.2.instruction" = "Wische mit deinen Finger nach oben";
+"tut.gesture.3.info" = "Die Nächste Geste lautet: nach links Wischen. Hierfür musst du mit einem Finger auf dem Bildschirm von rechts nach links wischen. ";
+"tut.gesture.3.instruction" = "Wische mit deinen Finger nach links";
+"tut.gesture.4.info" = "Die Nächste Geste lautet: nach rechts Wischen. Hierfür musst du mit einem Finger auf dem Bildschirm von links nach rechts wischen. ";
+"tut.gesture.4.instruction" = "Wische mit deinen Finger nach rechts";
+"tut.gesture.5.info" = "Die Nächste Geste lautet: einmal Tippen. Hierfür musst du mit einem Finger auf dem Bildschirm einmal tippen. ";
+"tut.gesture.5.instruction" = "Tippe mit deinem Finger einmal auf dem Bildschirm";
+"tut.gesture.6.info" = "Die Nächste Geste lautet: zweimal Tippen. Hierfür musst du mit einem Finger auf dem Bildschirm zweimal tippen.";
+"tut.gesture.6.instruction" = "Tippe mit deinem Finger zweimal auf denn Bildschirm";
+"tut.gesture.7.info" = "Du hast nun alle Gesten kennen gelernt. Jetzt wollen wir mit den Gesten die App bedienen.";
+"tut.gesture.7.instruction" = "Tippe zweimal auf den Bildschirm um die Demo zu öffnen";
+
+"tut.list.1.info" = "Startet die Übung fur die Navigation. Um in der App zu Navigieren musst du mit einem Finger nach Links oder Rechts Wischen. In der App ist jazzt eine Liste geöffnet die mit 3 Elementen. Aktuell ist das erste Element geöffnet.";
+"tut.list.1.instruction" = "Wische nach rechts um das nächste Element zu wählen";
+"tut.list.1.completed" = "Du hast das Letzte Element ausgewählt";
+"tut.list.2.info" = "Gelange nun wieder zum ersten Element";
+"tut.list.2.instruction" = "Wische nach Links um das vorherige Element zu wählen";
+"tut.list.2.completed" = "Du hast das erste Element ausgewählt. Jetzt weißt du wie man in der App von Element zu Element navigierst.";
+
+"tut.voice.1.info" = "Jetzt zeig ich dir wie man werte verändert. Es gibt Elemente die einen Wert haben. Diese kannst du dann verändern indem du nach Oben oder Unten wischt. Jetzt ist das Element: Stimme ausgewählt. Hier kannst du die Stimme verändern. Dafür musst du nach oben oder nach unten Wischen";
+"tut.voice.1.instruction" = "Wische nach unten";
+"tut.voice.1.completed" = "Du hast nun einmal alle Stimmen Gehoert";
+
+"tut.voice.2.info" = "Wähle nun die Stimme, die du am besten findest. Wenn du fertig bist, wische nach recht, um das nächste Element auszuwählen.";
+
+"tut.speed.1.info" = "Element Speed: Hier kannst du die Geschwindigkeit der Stimme ändern. Dafür musst du nach oben oder nach unten Wischen. Wenn du Fertig bist wische nach rechts";
+"tut.speed" = "Die Geschwindigkeit ist jetzt:";
+

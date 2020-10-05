@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Capable (1.1.2):
+    - Capable/Colors (= 1.1.2)
+    - Capable/Features (= 1.1.2)
+    - Capable/Fonts (= 1.1.2)
+  - Capable/Colors (1.1.2)
+  - Capable/Features (1.1.2)
+  - Capable/Fonts (1.1.2)
+  - FeedKit (9.0.0)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SwiftyBeaver (1.8.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - Capable
+  - FeedKit (~> 9.0)
+  - Realm
+  - RealmSwift
+  - SwiftyBeaver
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Capable
+    - FeedKit
+    - Realm
+    - RealmSwift
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Capable: 68f8213fb81f2e4667bcc06449adc6ade1926017
+  FeedKit: 9ffa2434af293df73ac069129900498b3f89cb2e
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SwiftyBeaver: f9a9aba96a6a6166e21682377804d728b0d20b95
+
+PODFILE CHECKSUM: e3fa1d54aebc4f9c08120535be8e2e335bab8ac6
+
+COCOAPODS: 1.8.4

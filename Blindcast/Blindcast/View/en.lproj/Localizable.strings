@@ -1,0 +1,169 @@
+/* 
+  Localizable.strings
+  Blindcast
+
+  Created by Jan Anstipp on 20.01.20.
+  Copyright © 2020 handycap. All rights reserved.
+*/
+
+// Mark blindcastView
+"blindcastView.player" = "Player";
+"blindcastView.player.label" = "Menu: Player";
+"blindcastView.player.hint" = "Player menu for the current episode";
+
+"blindcastView.library" = "Media library";
+"blindcastView.library.label" = "Menu: media library";
+"blindcastView.library.hint" = "Media library of all subscribed podcasts";
+
+"blindcastView.search" = "Search";
+"blindcastView.search.label" = "Menu: Search";
+"blindcastView.search.hint" = "To search for podcast";
+
+"blindcastView.setting" = "Settings";
+"blindcastView.setting.label" = "Menu: Settings";
+"blindcastView.setting.hint" = "Settings in the app";
+
+"blindcastView.voice" = "Voice";
+"blindcastView.voice.label" = "Menu: Voice";
+"blindcastView.voice.hint" = "Speech recognition in the app";
+
+// playerView
+"player.header" = "Menu: Player";
+"player.header.hint" = "In the Player menu you have the following options:";
+
+"player.titel" = "Title";
+"player.titel.value" = "Title";
+"player.titel.hint" = "Title of the episode that is open in the player.";
+
+"player.play" = "Play";
+"player.play" = "Play";
+"player.play.hint" = "Double tap to play";
+"player.stop" = "Stop";
+"player.stop.hint" = "Double tap to stop";
+"player.status.play" = "Episode is playing";
+"player.status.hint" = "Adjustable, double tap to stop";
+"player.status.stop" = "Episode is not playing";
+"player.status.stop.hint" = "Adjustable, double tap to play";
+"player.description" = "Description";
+"player.description.hint" = "Description of the episode";
+
+"player.skip.forward" = "Fast forward";
+"player.skip.forward.hint" = "Double tap to fast forward 30 seconds";
+
+"player.skip.back" = "Rewind";
+"player.skip.back.hint" = "Double tap to rewind 30 seconds";
+
+"player.speed" = "Playback speed";
+"player.speed.hint" = "Playing speed of the episode";
+
+"player.podcast" = "Podcast";
+"player.podcast.hint" = "Double tap to open the podcast";
+
+//Library
+"library.header" = "Menu: Media library";
+"library.header.hint" = "The menu media library contains the following information and features:";
+"library.podcastList" = "Subscribed Podcast";
+"library.podcastList.hint" = "double tap to open the list";
+"library.episdoList" = "Episodes";
+"library.episdoList.hint" = "double tap to open the list";
+
+//Search
+"search.header" = "Menu: Search";
+"search.header.hint" = "In the menu search you have the following features:";
+"search.podcast" = "Podcast Search";
+"search.podcast.hint" = "double tap to open the podcast search";
+"search.author" = "Author Search";
+"search.author.hint" = "double tap to open the author search";
+"search.episode" = "Episode Search";
+"search.episode.hint" = "double tap to open the episode search";
+
+//PodcastDetails
+"podcastDetails.header" = "Menu: Podcast";
+"podcastDetails.header.hint" = "In the menu: Podcast you have the following features:";
+
+//PodcastList
+"podcastList.header.abo" = "List: Subscribed Podcast";
+"podcastList.header.abo.hint" = "In the list: Subscribed podcast you have the following features";
+"podcastList.header" = "List: Podcast";
+"podcastList.header.hint" = "In the list: Podcast, you have the following features:";
+"podcastList.header.searchPodcast" = "List: Podcast Search";
+"podcastList.header.searchPodcast.hint" = "In the list: Podcast search. You have the following features";
+"podcastList.search" = "Podcast Search";
+"podcastList.search.hint" = "Enter a name to search for a podcast.";
+"podcastList.podcast.hint" = "Double tap to open the podcast";
+
+
+//PodcastDetails
+"podcastDetails.titel" = "Title";
+"podcastDetails.episode" = "Episodes";
+"podcastDetails.episode.hint" = "double tap to open the episode list";
+"podcastDetails.trailer" = "Trailer";
+"podcastDetails.trailer.hint" = "double tap to play the trailer";
+"podcastDetails.abo" = "Follow";
+"podcastDetails.abo.not" = "Unfollow";
+"podcastDetails.abo.hint" = "Subscribed, adjustable, double tap to unsubscribe";
+"podcastDetails.deabo.hint" = "Unsubscribed, adjustable, double tap to subscribe";
+
+"podcastDetails.artist" = "Artist";
+"podcastDetails.description" = "Information";
+"podcastDetails.grene" = "Category";
+
+//EpisodenList
+"episodeList.header" = "List: Episodes";
+"episodeList.header.hint" = "In the list: Episodes you have the following features:";
+"episodeList.search" = "Episode Search";
+"episodeList.search.hint" = "Enter a name to search for an episode.";
+"episodeList.episode.hint" = "Double tap, to open the episode";
+
+//EpisodenDetails
+"episodeDetails.header" = "Menu: Episode";
+"episodeDetails.header.hint" = "In the menu: Episode you have the following features:";
+"episodeDetails.titel" = "Title";
+"episodeDetails.description" = "Description";
+"episodeDetails.play" = "Play";
+"episodeDetails.play.hint" = "Double tap to play";
+
+//VoiceView
+"voice.microphone.access.undetermined" = "In order to process your voice commands, an access to the microphone is required. After this announcement, you can allow or deny access.";
+"voice.microphone.access.denied" = "You have denied access to the microphone. Voice control is not available at the moment. You can grant access to the settings in the app at any time.";
+"voice.speechrecognition.access.undetermined" = "In order to recognize your voice commands, access to the speech recognition is required. After this sentence you can allow or deny access.";
+"voice.speechrecognition.authorization.denied" = "You have denied access to voice recognition. Voice control is not available at the moment. You can grant access to the settings in the app at any time.";
+"voice.speechrecognition.authorization.authorized" = "The speech recognition is now available";
+"voice.general.speak" = "Speak your command after the warning tone";
+"voice.command.search" = "What should I look for?";
+"voice.command.search.found" = "I found the following results for %@";
+
+"blindcast.more" = "More";
+"zurueck" = "Back";
+
+"tut.end" = "Tutorial finished. Start Voiceover to start the app. Just talk to Siri. Turn on Voiceover!";
+"tut.gesture.1.info" = "Welcome to the Blindcast app. The Blindcast app is a podcast app for blind people. We are now going to show you how to use the app. There are several things you can do to use the app , for this you need several gestures which I will show you now. Let us start with the first gesture. The first gesture is: Swipe down. To do this, you have to swipe down with a finger on the screen. ";
+"tut.gesture.1.instruction" = "Swipe your finger down";
+"tut.gesture.2.info" = "The next gesture is: Swipe up. To do this, swipe your finger up from the bottom of the screen.";
+"tut.gesture.2.instruction" = "Swipe your finger up";
+"tut.gesture.3.info" = "The next gesture is: Swipe left. To do this, swipe your finger from right to left on the screen.";
+"tut.gesture.3.instruction" = "Swipe your finger to the left";
+"tut.gesture.4.info" = "The next gesture is: Swipe right. To do this, swipe your finger from left to right on the screen.";
+"tut.gesture.4.instruction" = "Swipe your finger to the right";
+"tut.gesture.5.info" = "The next gesture is one tap. To do this, tap the screen once with one finger.";
+"tut.gesture.5.instruction" = "Tap your finger on the screen once";
+"tut.gesture.6.info" = "The next gesture is two taps. You have to tap twice on the screen with one finger.";
+"tut.gesture.6.instruction" = "Double-tap the screen with your finger";
+"tut.gesture.7.info" = "You have now learned all of the gestures. Now we want to use the app with the gestures.";
+"tut.gesture.7.instruction" = "Double-tap the screen to open the demo";
+
+"tut.list.1.info" = "Starts the tutorial for the navigation. To navigate in the app you have to swipe left or right with your finger. In the app a list is opened with 3 elements opened the first item. ";
+"tut.list.1.instruction" = "Swipe right to select the next item";
+"tut.list.1.completed" = "You have selected the last item";
+"tut.list.2.info" = "Now go back to the first element";
+"tut.list.2.instruction" = "Swipe left to select the previous item";
+"tut.list.2.completed" = "You have selected the first item. Now you know how to navigate from item to item in the app.";
+
+"tut.voice.1.info" = "Now I will show you how to change values. There are elements that have a value. You can change them by swiping up or down. Now the element: Voice selected. Here you can change the voice by swiping up or down ";
+"tut.voice.1.instruction" = "Swipe down";
+"tut.voice.1.completed" = "You have now heard all the voices";
+
+"tut.voice.2.info" = "Now choose the voice you like best. When you're done, swipe right to select the next item.";
+
+"tut.speed.1.info" = "Element Speed: Here you can change the speed of the voice by swiping up or down. When you are finished swipe to the right";
+"tut.speed" = "The speed is now:";
